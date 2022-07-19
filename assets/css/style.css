@@ -1,21 +1,4 @@
-
-
-
-
-/*
-  Template Name: OLMO - Software, App, SaaS & Startup Landing Pages Pack
-  Theme URL: https://themeforest.net/user/dsathemes
-  Description: OLMO - Software, App, SaaS & Startup Landing Pages Pack
-  Author: DSAThemes
-  Author URL: https://themeforest.net/user/dsathemes
-  Version: 1.0.0
-  Website: www.dsathemes.com
-  Tags: Responsive, HTML5, DSAThemes, One Page, Landing, Software, Mobile App, SaaS, Startup, Creative, Freelancers, Digital Product
-*/
-
-
-
-
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
 /* ==========================================================================
   01. GENERAL & BASIC STYLES
   =========================================================================== */
@@ -26,7 +9,7 @@ html {
 } 
 
 body {
-  font-family: 'Rubik', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'IBM Plex Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: #6c757d;
   line-height: 1.6666;
   font-weight: 400;
@@ -509,8 +492,8 @@ hr.divider {
 
 h1, h2, h3, h4, h5, h6 {  
   color: #2f353e;
-  font-family: 'Rubik', sans-serif;
-  font-weight: 500;
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: 700;
   letter-spacing: -0.75px;
 }
 
@@ -7278,7 +7261,7 @@ p.forgot-password {
 
 .login-separator-txt {
   position: relative;  
-  font-family: 'Rubik', sans-serif;
+  font-family: 'IBM Plex Sans', sans-serif;
   font-size: 1.05rem;
   font-weight: 400;
 }
