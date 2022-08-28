@@ -38,8 +38,7 @@
 
 	</head>
 	<body>
-		<!-- PRELOADER SPINNER
-		============================================= -->	
+		<!-- PRELOADER START -->	
 		<div id="loading" class="green-loading">
 			<div id="loading-center">
 				<div id="loading-center-absolute">
@@ -50,74 +49,14 @@
 				</div>
 			</div>
 		</div>
+		<!-- PRELOADER END -->
 
-		<!-- PAGE CONTENT
-		============================================= -->	
+		<!-- PAGE CONTENT START -->	
 		<div id="page" class="page">
-			<!-- HEADER
-			============================================= -->
-			<header id="header" class="header tra-menu navbar-light">
-				<div class="header-wrapper">
-					<!-- MOBILE HEADER -->
-				    <div class="wsmobileheader clearfix">	  	
-				    	<span class="smllogo"><img src="images/logo-01.png" alt="mobile-logo"/></span>
-				    	<a id="wsnavtoggle" class="wsanimated-arrow"><span></span></a>	
-				 	</div>
-				 	<!-- NAVIGATION MENU -->
-				  	<div class="wsmainfull menu clearfix">
-	    				<div class="wsmainwp clearfix">
-	    					<!-- HEADER LOGO -->
-	    					<div class="desktoplogo"><a href="#hero-3" class="logo-black"><img src="./assets/images/vc-logo.png" alt="header-logo"></a></div>
-	    					<div class="desktoplogo"><a href="#hero-3" class="logo-white"><img src="./assets/images/vc-logo.png" alt="header-logo"></a></div>
-	    					<!-- MAIN MENU -->
-	      					<nav class="wsmenu clearfix">
-	        					<ul class="wsmenu-list nav-green-hover">
-									<li class="nl-simple" aria-haspopup="true"><a href="#">Home</a></li>
-									<li aria-haspopup="true"><a href="#">Company <span class="wsarrow"></span></a>
-	            						<ul class="sub-menu">
-	            							<li aria-haspopup="true"><a href="#">About Us</a></li>	
-											<li aria-haspopup="true"><a href="#">How We Engage</a></li>	
-											<li aria-haspopup="true"><a href="#">Partners</a></li>	
-											<li aria-haspopup="true"><a href="#">Life at Vikas Solutions</a></li>	
-											<li aria-haspopup="true"><a href="#">Careers</a></li>	
-						           		</ul>
-								    </li>
-						          	<li aria-haspopup="true"><a href="#">Services <span class="wsarrow"></span></a>
-	            						<ul class="sub-menu">
-	            							<li aria-haspopup="true"><a href="#">Data Analytics</a></li>	
-											<li aria-haspopup="true"><a href="#">Cloud Application</a></li>	
-											<li aria-haspopup="true"><a href="#">Product Engineering</a></li>	
-											<li aria-haspopup="true"><a href="#">Enterprise Software</a></li>	
-											<li aria-haspopup="true"><a href="#">Digital Experience</a></li>	
-											<li aria-haspopup="true"><a href="#">Enterprise Mobile Apps</a></li>	
-											<li aria-haspopup="true"><a href="#">Testing &amp; QA</a></li>	
-											<li aria-haspopup="true"><a href="#">DevOps</a></li>	
-											<li aria-haspopup="true"><a href="#">Digital Process Automation</a></li>	
-						           		</ul>
-								    </li>
-						          	<li aria-haspopup="true"><a href="#">Industries <span class="wsarrow"></span></a>
-	            						<ul class="sub-menu">
-	            							<li aria-haspopup="true"><a href="#">Media &amp; Entertainment</a></li>	
-											<li aria-haspopup="true"><a href="#">Healthcare</a></li>	
-											<li aria-haspopup="true"><a href="#">FinTech</a></li>	
-											<li aria-haspopup="true"><a href="#">Retail</a></li>	
-											<li aria-haspopup="true"><a href="#">Real Estate</a></li>	
-											<li aria-haspopup="true"><a href="#">Manufacturing</a></li>	
-											<li aria-haspopup="true"><a href="#">Logistics and SCM</a></li>	
-											<li aria-haspopup="true"><a href="#">Travel &amp; Hospitality</a></li>	
-											<li aria-haspopup="true"><a href="#">EdTech</a></li>	
-						           		</ul>
-								    </li>
-									<li class="nl-simple" aria-haspopup="true"><a href="#">Our Work</a></li>
-							    	<li class="nl-simple" aria-haspopup="true"><a href="#">Resources</a></li>
-							    	<li class="nl-simple" aria-haspopup="true"><a href="#">Contact Us</a></li>
-	        					</ul>
-	        				</nav>
-	    				</div>
-	    			</div>
-				</div> 
-			</header>
 
+			<!-- HEADER START -->
+			<?php require('./header.php') ?>
+			<!-- HEADER END -->
 
 			<!-- HERO SECTION START-->
 			<section id="hero-3" class="pt-120 pb-100 bg-scroll hero-section division">
@@ -534,87 +473,10 @@
 			<!-- CALL TO ACTION END -->
 
 			<!-- FOOTER START -->
-			<footer id="footer-1" class="footer division">
-				<div class="container">
-					<div class="row">	
-						<div class="col-lg-4">
-							<div class="footer-info mb-40">
-								<img class="footer-logo mb-25" src="./assets/images/vc-logo.png" alt="footer-logo">
-								<p class="p-md">Using streamlined practices to resolve complex business setbacks.</p>
-								<p class="p-md">Get back into business with Vikas Soutions!</p>
-							</div>	
-						</div>	
-
-						<div class="col-sm-6 col-md-3 col-lg-2">
-							<div class="footer-links mb-40">
-								<h6 class="h6-xl">Company</h6>
-								<ul class="foo-links text-secondary clearfix">
-									<li><p class="p-md"><a href="#">About Us</a></p></li>
-									<li><p class="p-md"><a href="#">Careers</a></p></li>
-									<li><p class="p-md"><a href="#">Press & Media</a></p></li>
-									<li><p class="p-md"><a href="#">Contact Us</a></p></li>							
-								</ul>
-							</div>
-						</div>
-
-						<div class="col-sm-6 col-md-3 col-lg-2">
-							<div class="footer-links mb-40">		
-								<h6 class="h6-xl">Discover</h6>
-								<ul class="foo-links text-secondary clearfix">
-									<li><p class="p-md"><a href="#">Our Blog</a></p></li>
-									<li><p class="p-md"><a href="#">Advertising</a></p></li>						
-									<li><p class="p-md"><a href="#">Plans & Pricing</a></p></li>
-									<li><p class="p-md"><a href="#">Testimonials</a></p></li>							
-								</ul>
-							</div>	
-						</div>
-
-						<div class="col-sm-6 col-md-3 col-lg-2">
-							<div class="footer-links mb-40">
-								<h6 class="h6-xl">Legal</h6>
-								<ul class="foo-links text-secondary clearfix">							
-									<li><p class="p-md"><a href="#">Terms of Use</a></p></li>										
-									<li><p class="p-md"><a href="#">Privacy Policy</a></p></li>
-									<li><p class="p-md"><a href="#">Cookie Policy</a></p></li>
-									<li><p class="p-md"><a href="#">Site Map</a></p></li>					
-								</ul>
-							</div>
-						</div>
-
-						<div class="col-sm-6 col-md-3 col-lg-2">
-							<div class="footer-links mb-40">
-								<h6 class="h6-xl">Support</h6>
-								<ul class="foo-links text-secondary clearfix">
-									<li><p class="p-md"><a href="#">FAQs</a></p></li>
-									<li><p class="p-md"><a href="#">Editor Help</a></p></li>
-									<li><p class="p-md"><a href="#">Community</a></p></li>											
-									<li><p class="p-md"><a href="#">Live Chatting</a></p></li>								
-								</ul>
-							</div>
-						</div>
-					</div>
-					<hr>
-					<div class="bottom-footer">
-						<div class="row row-cols-1 row-cols-md-2 d-flex align-items-center">
-							<div class="col">
-								<div class="footer-copyright">
-									<p>&copy; 2022 Vikas Solutions. All Rights Reserved</p>
-								</div>
-							</div>
-							<div class="col">
-								<ul class="bottom-footer-list text-secondary text-end">
-									<li class="first-li"><p><a href="#">Facebook</a></p></li>
-									<li><p><a href="#">Twitter</a></p></li>
-									<li><p><a href="#">LinkedIn</a></p></li>	
-									<li class="last-li"><p><a href="#">Instagram</a></p></li>
-								</ul>
-							</div>
-						</div> 
-					</div>
-				</div>
-			</footer>	
+			<?php require('./footer.php') ?>
 			<!-- FOOTER END -->
-		</div>	
+		</div>
+		<!-- PAGE CONTENT END -->
 			
 		<!-- EXTERNAL SCRIPTS
 		============================================= -->	
