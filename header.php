@@ -23,10 +23,11 @@
                                 <li aria-haspopup="true"><a href="#">Product Engineering</a></li>
                                 <li aria-haspopup="true"><a href="#">Enterprise Software</a></li>
                                 <li aria-haspopup="true"><a href="#">Digital Experience</a></li>
-                                <li aria-haspopup="true"><a href="#">Enterprise Mobile Apps</a></li>
-                                <li aria-haspopup="true"><a href="#">Testing &amp; QA</a></li>
-                                <li aria-haspopup="true"><a href="#">DevOps</a></li>
-                                <li aria-haspopup="true"><a href="#">Digital Process Automation</a></li>
+                                <li aria-haspopup="true"><a href="./enterprise-mobile-apps">Enterprise Mobile Apps</a></li>
+                                <li aria-haspopup="true"><a href="./automation-testing">Automation Testing</a></li>
+                                <li aria-haspopup="true"><a href="./mobile-app-testing">Mobile App Testing</a></li>
+                                <li aria-haspopup="true"><a href="./devops-solution-services">DevOps</a></li>
+                                <li aria-haspopup="true"><a href="./digital-process-automation">Digital Process Automation</a></li>
                             </ul>
                         </li>
                         <li aria-haspopup="true"><a href="#">Industries <span class="wsarrow"></span></a>
