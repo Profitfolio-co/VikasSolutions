@@ -19,7 +19,7 @@
     <link rel="icon" href="images/apple-touch-icon.png" type="image/x-icon">
 
     <!-- SITE TITLE -->
-    <title>Digital Process Automation | Vikas Solutions</title>
+    <title>Cloud Application Development | Vikas Solutions</title>
 
     <!-- BOOTSTRAP CSS -->
     <link href="./assets/css/bootstrap.min.css" rel="stylesheet">
@@ -76,18 +76,18 @@
                     <div class="row">
                         <div class="col-md-12 col-lg-12">
                             <div class="about-2-title">
-                                <h2 class="h2-xl">Build modern apps, automate workflows & accelerate your transformation</h2>
-                                <p class="p-xl">Orchestrate business data, apps & end-to-end processes to drive efficiency gains. We build & implement custom digital process automation solutions that help reducing time, effort & cost.</p>
+                                <h2 class="h2-xl">Vikas Solution's Cloud Capabilities Help Clients Develop and Deploy Cloud-Native Apps and Solutions</h2>
+                                <p class="p-xl">As ensured administration accomplices for AWS (Amazon Web Services), and Microsoft Azure, we offer application improvement and modernization alongside discussion, oversaw administrations and movement.</p>
                             </div>
                         </div>
                     </div>
                     <div class="about-2-images">
                         <div class="row row-cols-1 row-cols-md-2">
                             <div class="col col-md-5">
-                                <img class="img-fluid" src="./assets/images/website-data/digital-process-automation-01.png" style="border-radius: 10px" alt="about-image">
+                                <img class="img-fluid" src="./assets/images/website-data/cloud-application-1.png" style="border-radius: 10px" alt="about-image">
                             </div>
                             <div class="col col-md-7">
-                                <img class="img-fluid" src="./assets/images/website-data/digital-process-automation-02.png" style="border-radius: 10px" alt="about-image">
+                                <img class="img-fluid" src="./assets/images/website-data/cloud-application-2.png" style="border-radius: 10px" alt="about-image">
                             </div>
                         </div>
                     </div>
@@ -105,15 +105,16 @@
                     <div class="row">
                         <div class="col-lg-12 col-xl-12">
                             <div class="section-title title-01 mb-70">
-                                <h2 class="h2-md">Team up with an experienced digital automation company & gear up for revolution!</h2>
+                                <h2 class="h2-md">Our cloud advancement administrations can help improve - time, spending plan and assets</h2>
                             </div>
                         </div>
                     </div>
                     <div class="row d-flex align-items-center">
                         <div class="col-md-12 col-lg-12">
                             <div class="txt-block left-column wow fadeInRight">
-                                <p class="p-sm">As a computerized interaction mechanization (DPA) trained professionals, we've fueled change drives past digitization. Our gifted group is impeccably situated to assist you with utilizing a future-verification DPA system that expands the speed, scope and outcome of errand robotization and cycle coordination inside your association</p>
-                                <p class="p-sm">As your DPA innovation accomplice, we embrace a comprehensive methodology that beginnings by examining your manual progression of information and heritage frameworks that work in storehouses. Then we distinguish routine errands/processes where bots can be set and coordinate your digitalized frameworks. This is trailed by putting the expected innovation of RPA (UiPath and Robocorp) set up that robotize errands as well as start to finish processes, no matter how you look at it.</p>
+                                <p class="p-sm">As a cloud application improvement organization, we take special care of organizations of all sizes and across topographies. We've more than twenty years of involvement offering start to finish administrations from tech counseling to arrangement, upkeep and backing.</p>
+                                <p class="p-sm">Our group joins areas of strength for them information with all encompassing procedures to help you with moving your applications and responsibilities to virtualized conditions or refactoring them for more proficient use of cloud-local administrations. We can foster custom cloud applications and even convey them openly, private, or half and half conditions for you.</p>
+                                <p class="p-sm">As a feature of current programming improvement best practices, we use cloud microservice-based designs to combine applications into free parts. This furnishes you with improved dexterity, execution, and versatility. What's more, to guarantee your business is cloud-prepared, we foster cloud-local applications utilizing DevOps apparatuses and approaches, including Kubernetes, Containerization, Docker, Gitlab CI/CD, and numerous others, to empower robotized the executives across people in general, private, and cross breed cloud. We serve clients from various ventures like fintech, media and diversion, travel and accommodation and more.</p>
                             </div>
                         </div>
                     </div>
@@ -129,27 +130,42 @@
                     <div class="col-lg-12 col-xl-12">
                         <div class="section-title title-01 mb-70">
                             <h2 class="h2-md">Services We Offer</h2>
-                            <p class="p-xl">Businesses today are looking for agile and fluid strategies to accelerate productivity and swiftly build responsive value chains. To help our clients achieve this goal, we combine our technical capabilities with solid subject matter expertise and deliver end-to-end automation implementations.</p>
                         </div>
                     </div>
                 </div>
                 <div class="row d-flex align-items-center">
-                    <div class="col-md-6 col-lg-5">
+                    <div class="col-md-6 col-lg-6">
                         <div class="txt-block left-column wow fadeInRight">
                             <div class="txt-box mb-30">
-                                <h5 class="h5-lg">Low Code Platform Apps</h5>
-                                <p class="p-sm">We outfit the maximum capacity of Microsoft Power Platform to create secure and adaptable undertaking grade applications that productively organize the work process between your kin, processes, frameworks and administrations to drive extraordinary degrees of effectiveness and dexterity.
+                                <h5 class="h5-lg">Cloud App Development Services</h5>
+                                <p class="p-sm">We cover the full range of cloud advancement capacities, assisting you with thinking up comprehensive techniques, move your applications and responsibilities to virtualized conditions. If you really want quick reconciliation with AWS or Azure - we're here to help.
                                 </p>
                             </div>
+                            <div class="txt-box mb-30">
+                                <h5 class="h5-lg">Cloud Migration</h5>
+                                <p class="p-sm">We foster methodologies subsequent to considering factors like execution, cost and security. Our group has broad involvement in cloud relocation, be it from heritage application to cloud, or moving applications between cloud stages.</p>
+                            </div>
                             <div class="txt-box">
-                                <h5 class="h5-lg">Multiplatform. Always Synced</h5>
-                                <p class="p-sm">Businesses need an RPA solution that is easy to implement, works efficiently, scales quickly & integrates seamlessly without disruption. To bring value & ultimate satisfaction even to the most demanding clients, we use comprehensive automation platform like UiPath & open-source RPA tool like Robocorp. </p>
+                                <h5 class="h5-lg">Cloud Consulting</h5>
+                                <p class="p-sm">We help organizations with specialized cloud interview for engineering, foundation, sending, mix, advancement, conveyance and backing. It begins with a start to finish evaluation of your venture prerequisites and current framework.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-7">
-                        <div class="img-block right-column wow fadeInLeft">
-                            <img class="img-fluid" src="./assets/images/website-data/img-19.png" alt="content-image">
+                    <div class="col-md-6 col-lg-6">
+                        <div class="txt-block left-column wow fadeInRight">
+                            <div class="txt-box mb-30">
+                                <h5 class="h5-lg">Cloud Managed Services</h5>
+                                <p class="p-sm">In this age of a multi-platform presence, constantly evolving technologies, changing user expectations and more, consumer-focused apps can amplify your reach. Vikas Solutions brings years of experience in building consumer apps that can help create a simpler yet engaging customer experience.
+                                </p>
+                            </div>
+                            <div class="txt-box mb-30">
+                                <h5 class="h5-lg">Cloud Integration</h5>
+                                <p class="p-sm">We assist you with your information mix venture while moving to the cloud to guarantee there are no hiccups by incorporating APIs, processes, data sets and organization assets while empowering consistent information stream.</p>
+                            </div>
+                            <div class="txt-box">
+                                <h5 class="h5-lg">Cloud Maintenance & Support</h5>
+                                <p class="p-sm">As an accomplished cloud application advancement organization, we use industry-standard instruments to guarantee that your cloud applications perform ideally. With devoted SLA, we screen, identify and cure issues influencing the soundness of your cloud-based frameworks.</p>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -172,42 +188,21 @@
                         <div class="col">
                             <div class="brand-logo">
                                 <a href="#">
-                                    <img class="img-fluid" src="./assets/images/website-data/power-apps.png" alt="Power Apps" />
+                                    <img class="img-fluid" src="./assets/images/website-data/aws.png" alt="AWS" />
                                 </a>
                             </div>
                         </div>
                         <div class="col">
                             <div class="brand-logo">
                                 <a href="#">
-                                    <img class="img-fluid" src="./assets/images/website-data/power-automate.png" alt="Power Automate" />
+                                    <img class="img-fluid" src="./assets/images/website-data/azure-devops.png" alt="Azure" />
                                 </a>
                             </div>
                         </div>
                         <div class="col">
                             <div class="brand-logo">
                                 <a href="#">
-                                    <img class="img-fluid" src="./assets/images/website-data/power-viryual-agents.png" alt="Power Virtual Agents" />
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col">
-                            <div class="brand-logo">
-                                <a href="#">
-                                    <img class="img-fluid" src="./assets/images/website-data/power-bi.png" alt="Power BI" />
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col">
-                            <div class="brand-logo">
-                                <a href="#">
-                                    <img class="img-fluid" src="./assets/images/website-data/robocorp.png" alt="Robocorp" />
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col">
-                            <div class="brand-logo">
-                                <a href="#">
-                                    <img class="img-fluid" src="./assets/images/website-data/ui-path.png" alt="UI Path" />
+                                    <img class="img-fluid" src="./assets/images/website-data/google-cloud-platform.png" alt="Google Cloud Platform" />
                                 </a>
                             </div>
                         </div>
@@ -223,8 +218,8 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-12 col-xl-12">
                         <div class="section-title title-01 mb-70">
-                            <h2 class="h2-md">Digital automation services that are transforming the way businesses work</h2>
-                            <p class="p-xl">Our customized way to deal with carefully planning business needs and conveying predominant computerized arrangements has procured us the trust of driving tech organizations around the world. Launch your computerization process with us to accomplish the speed and accuracy you really want to drive better business results and ROI.
+                            <h2 class="h2-md">Our cloud programming advancement administrations assist with driving development</h2>
+                            <p class="p-xl">As a cloud improvement organization, we at Rishabh Software support associations with an unmistakable cloud execution guide, vigorous yet adaptable cloud design, ceaseless upkeep and constant application support.
                             </p>
                         </div>
                     </div>
@@ -235,12 +230,12 @@
                             <div class="fbox-4 pr-25 mb-40 wow fadeInUp">
                                 <div class="fbox-ico">
                                     <div>
-                                        <img src="./assets/images/website-data/multi-domain-experience.png" style="width: 70px; height: auto" alt="content-image" />
+                                        <img src="./assets/images/website-data/complex.png" style="width: 70px; height: auto" alt="content-image" />
                                     </div>
                                 </div>
                                 <div class="fbox-txt">
-                                    <h5 class="h5-md">Multi-domain Experience</h5>
-                                    <p class="p-sm">We have two decades of experience in driving digitalization and automation initiatives for small, medium, and large companies across industries. We deliver transformation through our industry-specific consulting capabilities & extensive process optimization experience.
+                                    <h5 class="h5-md">Managing Complex Cloud Projects Effectively</h5>
+                                    <p class="p-sm">We grasp the many complex components of the complicated half and half or multi-cloud conditions and coordinate them securely to dispense with weakness and openness.
                                     </p>
                                 </div>
                             </div>
@@ -249,12 +244,12 @@
                             <div class="fbox-4 pl-25 mb-40 wow fadeInUp">
                                 <div class="fbox-ico">
                                     <div>
-                                        <img src="./assets/images/website-data/customer-focus.png" style="width: 70px; height: auto" alt="content-image" />
+                                        <img src="./assets/images/website-data/high-quality.png" style="width: 70px; height: auto" alt="content-image" />
                                     </div>
                                 </div>
                                 <div class="fbox-txt">
-                                    <h5 class="h5-md">Customer-first Focus</h5>
-                                    <p class="p-sm">Our clients value our agility, responsiveness, and genuine desire to enable them to optimize & scale. They benefit from our extensive experience, powerful business automation tools, integration capabilities & fail-safe solutions designed to perform will in future.
+                                    <h5 class="h5-md">High-Quality Standards & Timely Delivery</h5>
+                                    <p class="p-sm">Our group of guaranteed AWS and Azure cloud engineers work with clear cut advancement, quality-check, sending and upkeep cycles to convey industry-driving arrangements.
                                     </p>
                                 </div>
                             </div>
@@ -263,12 +258,12 @@
                             <div class="fbox-4 pr-25 mb-40 wow fadeInUp">
                                 <div class="fbox-ico">
                                     <div>
-                                        <img src="./assets/images/website-data/medal.png" style="width: 70px; height: auto" alt="content-image" />
+                                        <img src="./assets/images/website-data/client-centric.png" style="width: 70px; height: auto" alt="content-image" />
                                     </div>
                                 </div>
                                 <div class="fbox-txt">
-                                    <h5 class="h5-md">Microsoft Center of Excellence</h5>
-                                    <p class="p-sm">We have 2 decades of experience in working on Microsoft tech delivering custom software solutions with a strong emphasis on enablement, governance, change management, support, and continuous monitoring. You can count on us to streamline the success of your development and automation initiatives
+                                    <h5 class="h5-md">Client-centric Engagement Models</h5>
+                                    <p class="p-sm">Our commitment models empower the conveyance of top notch arrangements according to the client needs and spotlight on effective interaction the board, improved asset and straightforward correspondence at all levels.
                                     </p>
                                 </div>
                             </div>
@@ -277,12 +272,12 @@
                             <div class="fbox-4 pl-25 mb-40 wow fadeInUp">
                                 <div class="fbox-ico">
                                     <div>
-                                        <img src="./assets/images/website-data/add-ons.png" style="width: 70px; height: auto" alt="content-image" />
+                                        <img src="./assets/images/website-data/transparency.png" style="width: 70px; height: auto" alt="content-image" />
                                     </div>
                                 </div>
                                 <div class="fbox-txt">
-                                    <h5 class="h5-md">Data Management Capabilities</h5>
-                                    <p class="p-sm">The volume & variety of business data is increasing exponentially with more processes and applications. Vikas Solutions can help with total data management to build modernized information architecture. Right from ETL to data lake/data warehouse to data visualization using PowerBI – We do it all.
+                                    <h5 class="h5-md">100% Transparency</h5>
+                                    <p class="p-sm">We keep up with complete clearness in keeping you refreshed with the improvement progress. Also, proactively banner likely disturbance and counsel on potential alleviation steps.
                                     </p>
                                 </div>
                             </div>

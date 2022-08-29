@@ -143,7 +143,7 @@
                             </div>
                             <div class="txt-box">
                                 <h5 class="h5-lg">Mobile App Test Automation</h5>
-                                <p class="p-sm">In the present portable first world, we assist you with remaining ahead in this consistently changing worldwide market with high-performing applications. Rishabh offers gadget explicit QA computerization administrations to convey unequaled nature of the versatile application and diminish time-to-advertise.</p>
+                                <p class="p-sm">In the present portable first world, we assist you with remaining ahead in this consistently changing worldwide market with high-performing applications. Vikas Solutions offers gadget explicit QA computerization administrations to convey unequaled nature of the versatile application and diminish time-to-advertise.</p>
                             </div>
                         </div>
                     </div>

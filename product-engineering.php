@@ -19,7 +19,7 @@
     <link rel="icon" href="images/apple-touch-icon.png" type="image/x-icon">
 
     <!-- SITE TITLE -->
-    <title>Digital Process Automation | Vikas Solutions</title>
+    <title>Product Engineering | Vikas Solutions</title>
 
     <!-- BOOTSTRAP CSS -->
     <link href="./assets/css/bootstrap.min.css" rel="stylesheet">
@@ -76,18 +76,18 @@
                     <div class="row">
                         <div class="col-md-12 col-lg-12">
                             <div class="about-2-title">
-                                <h2 class="h2-xl">Build modern apps, automate workflows & accelerate your transformation</h2>
-                                <p class="p-xl">Orchestrate business data, apps & end-to-end processes to drive efficiency gains. We build & implement custom digital process automation solutions that help reducing time, effort & cost.</p>
+                                <h2 class="h2-xl">Construct Future Ready Custom Enterprise Products</h2>
+                                <p class="p-xl">Speed up opportunity to-advertise with Rishabh's custom item designing answers for augment your profits.</p>
                             </div>
                         </div>
                     </div>
                     <div class="about-2-images">
                         <div class="row row-cols-1 row-cols-md-2">
                             <div class="col col-md-5">
-                                <img class="img-fluid" src="./assets/images/website-data/digital-process-automation-01.png" style="border-radius: 10px" alt="about-image">
+                                <img class="img-fluid" src="./assets/images/website-data/product-engineering-1.png" style="border-radius: 10px" alt="about-image">
                             </div>
                             <div class="col col-md-7">
-                                <img class="img-fluid" src="./assets/images/website-data/digital-process-automation-02.png" style="border-radius: 10px" alt="about-image">
+                                <img class="img-fluid" src="./assets/images/website-data/product-engineering-2.png" style="border-radius: 10px" alt="about-image">
                             </div>
                         </div>
                     </div>
@@ -105,15 +105,15 @@
                     <div class="row">
                         <div class="col-lg-12 col-xl-12">
                             <div class="section-title title-01 mb-70">
-                                <h2 class="h2-md">Team up with an experienced digital automation company & gear up for revolution!</h2>
+                                <h2 class="h2-md">Join us with an accomplished item designing administrations organization and drive development</h2>
                             </div>
                         </div>
                     </div>
                     <div class="row d-flex align-items-center">
                         <div class="col-md-12 col-lg-12">
                             <div class="txt-block left-column wow fadeInRight">
-                                <p class="p-sm">As a computerized interaction mechanization (DPA) trained professionals, we've fueled change drives past digitization. Our gifted group is impeccably situated to assist you with utilizing a future-verification DPA system that expands the speed, scope and outcome of errand robotization and cycle coordination inside your association</p>
-                                <p class="p-sm">As your DPA innovation accomplice, we embrace a comprehensive methodology that beginnings by examining your manual progression of information and heritage frameworks that work in storehouses. Then we distinguish routine errands/processes where bots can be set and coordinate your digitalized frameworks. This is trailed by putting the expected innovation of RPA (UiPath and Robocorp) set up that robotize errands as well as start to finish processes, no matter how you look at it.</p>
+                                <p class="p-sm">In the present speedy world, innovation is changing quickly and business results are currently a natural blend of plan and designing. More than programming advancement what organizations should consider is programming item designing (SPE). This is on the grounds that SPE takes care of the client needs as well as permits the items to advance better soon. As a product item designing organization, we have long stretches of involvement and capability across various innovations, stages and cycles to construct items as the need might arise.</p>
+                                <p class="p-sm">Our top computerized designing, plan and item advancement group can convey custom programming applications utilizing cutting edge innovations like Java, .NET, Angular, Node Js, Laravel, React Native and cloud stages like AWS and Azure. What's more, taking on the DevOps approach, we influence the maximum capacity of worked together execution, programming quality and conveyance speed. Our obligation to specialized greatness enables us to construct adaptable items that put your business aside. Whether it is new item improvement, modernization, or coordination, we keep your current and future requirements at the center of all that we do.</p>
                             </div>
                         </div>
                     </div>
@@ -129,27 +129,34 @@
                     <div class="col-lg-12 col-xl-12">
                         <div class="section-title title-01 mb-70">
                             <h2 class="h2-md">Services We Offer</h2>
-                            <p class="p-xl">Businesses today are looking for agile and fluid strategies to accelerate productivity and swiftly build responsive value chains. To help our clients achieve this goal, we combine our technical capabilities with solid subject matter expertise and deliver end-to-end automation implementations.</p>
                         </div>
                     </div>
                 </div>
                 <div class="row d-flex align-items-center">
-                    <div class="col-md-6 col-lg-5">
+                    <div class="col-md-6 col-lg-6">
                         <div class="txt-block left-column wow fadeInRight">
                             <div class="txt-box mb-30">
-                                <h5 class="h5-lg">Low Code Platform Apps</h5>
-                                <p class="p-sm">We outfit the maximum capacity of Microsoft Power Platform to create secure and adaptable undertaking grade applications that productively organize the work process between your kin, processes, frameworks and administrations to drive extraordinary degrees of effectiveness and dexterity.
+                                <h5 class="h5-lg">Product Development</h5>
+                                <p class="p-sm">Vikas Solutions is a full-cycle programming item designing administrations organization that really focuses on client achievement. While watching out for the future, we expect market needs and assemble arrangements in a state of harmony with arising patterns. We don't stop there - we deal with the testing necessities and resulting deliveries to guarantee that you generally put in your absolute best effort.
                                 </p>
                             </div>
                             <div class="txt-box">
-                                <h5 class="h5-lg">Multiplatform. Always Synced</h5>
-                                <p class="p-sm">Businesses need an RPA solution that is easy to implement, works efficiently, scales quickly & integrates seamlessly without disruption. To bring value & ultimate satisfaction even to the most demanding clients, we use comprehensive automation platform like UiPath & open-source RPA tool like Robocorp. </p>
+                                <h5 class="h5-lg">Product Enhancements</h5>
+                                <p class="p-sm">Associations of today are feeling the squeeze to occasionally propel their item highlights and quality inside a negligible time span. As a believed item designing help accomplice, we help different ISVs and Channel Partners to improve and develop their current items while meeting developing business sector needs.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-7">
-                        <div class="img-block right-column wow fadeInLeft">
-                            <img class="img-fluid" src="./assets/images/website-data/img-19.png" alt="content-image">
+                    <div class="col-md-6 col-lg-6">
+                        <div class="txt-block left-column wow fadeInRight">
+                            <div class="txt-box mb-30">
+                                <h5 class="h5-lg">Product Maintenance and Support</h5>
+                                <p class="p-sm">We're focused on exceeding everyone's expectations for our clients for resuscitating heritage product offerings with an emphasis on further developing income, proficiency and client enchant. This empowers them to zero in on business viewpoints like advancement, client securing and maintenance and the sky is the limit from there.
+                                </p>
+                            </div>
+                            <div class="txt-box">
+                                <h5 class="h5-lg">Product Testing</h5>
+                                <p class="p-sm">In this quick changing business sector scene, a quicker rollout is the way to entering the standard all the more really. With our devoted group of qualified QA engineers, your item will raise a ruckus around town with guaranteed quality. Before the send off, our capability acts top to bottom testing.</p>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -172,42 +179,56 @@
                         <div class="col">
                             <div class="brand-logo">
                                 <a href="#">
-                                    <img class="img-fluid" src="./assets/images/website-data/power-apps.png" alt="Power Apps" />
+                                    <img class="img-fluid" src="./assets/images/website-data/flutter.png" alt="Flutter" />
                                 </a>
                             </div>
                         </div>
                         <div class="col">
                             <div class="brand-logo">
                                 <a href="#">
-                                    <img class="img-fluid" src="./assets/images/website-data/power-automate.png" alt="Power Automate" />
+                                    <img class="img-fluid" src="./assets/images/website-data/xamarin.png" alt="Xamarin" />
                                 </a>
                             </div>
                         </div>
                         <div class="col">
                             <div class="brand-logo">
                                 <a href="#">
-                                    <img class="img-fluid" src="./assets/images/website-data/power-viryual-agents.png" alt="Power Virtual Agents" />
+                                    <img class="img-fluid" src="./assets/images/website-data/android.png" alt="Android" />
                                 </a>
                             </div>
                         </div>
                         <div class="col">
                             <div class="brand-logo">
                                 <a href="#">
-                                    <img class="img-fluid" src="./assets/images/website-data/power-bi.png" alt="Power BI" />
+                                    <img class="img-fluid" src="./assets/images/website-data/apple.png" alt="iOS" />
                                 </a>
                             </div>
                         </div>
                         <div class="col">
                             <div class="brand-logo">
                                 <a href="#">
-                                    <img class="img-fluid" src="./assets/images/website-data/robocorp.png" alt="Robocorp" />
+                                    <img class="img-fluid" src="./assets/images/website-data/angular.png" alt="Angular" />
                                 </a>
                             </div>
                         </div>
                         <div class="col">
                             <div class="brand-logo">
                                 <a href="#">
-                                    <img class="img-fluid" src="./assets/images/website-data/ui-path.png" alt="UI Path" />
+                                    <img class="img-fluid" src="./assets/images/website-data/azure-devops.png" alt="Azure" />
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="brand-logo">
+                                <a href="#">
+                                    <img class="img-fluid" src="./assets/images/website-data/mongo-DB.png" alt="Mongo DB" />
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="brand-logo">
+                                <a href="#">
+                                    <img class="img-fluid" src="./assets/images/website-data/my-sql.png" alt="My SQL" />
                                 </a>
                             </div>
                         </div>
@@ -223,8 +244,8 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-12 col-xl-12">
                         <div class="section-title title-01 mb-70">
-                            <h2 class="h2-md">Digital automation services that are transforming the way businesses work</h2>
-                            <p class="p-xl">Our customized way to deal with carefully planning business needs and conveying predominant computerized arrangements has procured us the trust of driving tech organizations around the world. Launch your computerization process with us to accomplish the speed and accuracy you really want to drive better business results and ROI.
+                            <h2 class="h2-md">Product designing abilities that position your business for the success</h2>
+                            <p class="p-xl">We guarantee that your item scores huge on quality, execution, versatility and security. Depend on us to boost your item's potential that focuses on end-client needs and assumptions.
                             </p>
                         </div>
                     </div>
@@ -235,12 +256,12 @@
                             <div class="fbox-4 pr-25 mb-40 wow fadeInUp">
                                 <div class="fbox-ico">
                                     <div>
-                                        <img src="./assets/images/website-data/multi-domain-experience.png" style="width: 70px; height: auto" alt="content-image" />
+                                        <img src="./assets/images/website-data/faster-go-to-market.png" style="width: 70px; height: auto" alt="content-image" />
                                     </div>
                                 </div>
                                 <div class="fbox-txt">
-                                    <h5 class="h5-md">Multi-domain Experience</h5>
-                                    <p class="p-sm">We have two decades of experience in driving digitalization and automation initiatives for small, medium, and large companies across industries. We deliver transformation through our industry-specific consulting capabilities & extensive process optimization experience.
+                                    <h5 class="h5-md">Faster Go-to-Market</h5>
+                                    <p class="p-sm">We work intimately with our clients through the whole range of programming item designing administrations. We go from idea to advertise genuine speedy and get your item under the control of your clients as quick as could really be expected.
                                     </p>
                                 </div>
                             </div>
@@ -249,12 +270,12 @@
                             <div class="fbox-4 pl-25 mb-40 wow fadeInUp">
                                 <div class="fbox-ico">
                                     <div>
-                                        <img src="./assets/images/website-data/customer-focus.png" style="width: 70px; height: auto" alt="content-image" />
+                                        <img src="./assets/images/website-data/proven-methods.png" style="width: 70px; height: auto" alt="content-image" />
                                     </div>
                                 </div>
                                 <div class="fbox-txt">
-                                    <h5 class="h5-md">Customer-first Focus</h5>
-                                    <p class="p-sm">Our clients value our agility, responsiveness, and genuine desire to enable them to optimize & scale. They benefit from our extensive experience, powerful business automation tools, integration capabilities & fail-safe solutions designed to perform will in future.
+                                    <h5 class="h5-md">Proven Methodology and New-Age Technologies</h5>
+                                    <p class="p-sm">We convey creative arrangements that are created utilizing a cutting edge tech stack. We're prestigious for taking the client experience to an unheard of level by conveying results that enjoyment - ask our clients!
                                     </p>
                                 </div>
                             </div>
@@ -263,12 +284,12 @@
                             <div class="fbox-4 pr-25 mb-40 wow fadeInUp">
                                 <div class="fbox-ico">
                                     <div>
-                                        <img src="./assets/images/website-data/medal.png" style="width: 70px; height: auto" alt="content-image" />
+                                        <img src="./assets/images/website-data/global-enterprises.png" style="width: 70px; height: auto" alt="content-image" />
                                     </div>
                                 </div>
                                 <div class="fbox-txt">
-                                    <h5 class="h5-md">Microsoft Center of Excellence</h5>
-                                    <p class="p-sm">We have 2 decades of experience in working on Microsoft tech delivering custom software solutions with a strong emphasis on enablement, governance, change management, support, and continuous monitoring. You can count on us to streamline the success of your development and automation initiatives
+                                    <h5 class="h5-md">Trusted by Global Enterprises</h5>
+                                    <p class="p-sm">We influence our unrivaled specialized capability combined with a lithe methodology and DevOps best practices to encourage the improvement of client centered items.
                                     </p>
                                 </div>
                             </div>
@@ -277,12 +298,12 @@
                             <div class="fbox-4 pl-25 mb-40 wow fadeInUp">
                                 <div class="fbox-ico">
                                     <div>
-                                        <img src="./assets/images/website-data/add-ons.png" style="width: 70px; height: auto" alt="content-image" />
+                                        <img src="./assets/images/website-data/fast-delivery.png" style="width: 70px; height: auto" alt="content-image" />
                                     </div>
                                 </div>
                                 <div class="fbox-txt">
-                                    <h5 class="h5-md">Data Management Capabilities</h5>
-                                    <p class="p-sm">The volume & variety of business data is increasing exponentially with more processes and applications. Vikas Solutions can help with total data management to build modernized information architecture. Right from ETL to data lake/data warehouse to data visualization using PowerBI – We do it all.
+                                    <h5 class="h5-md">Performance-Driven Development and Delivery</h5>
+                                    <p class="p-sm">Our advancement culture and execution are intensely determined by our abilities and industry experience. We likewise acknowledge such greatness in our assortment of conveyance models - be it on location, offsite or seaward.
                                     </p>
                                 </div>
                             </div>

@@ -155,7 +155,7 @@
                         <div class="txt-block left-column wow fadeInRight">
                             <div class="txt-box mb-30">
                                 <h5 class="h5-lg">Mobile Web Apps Development</h5>
-                                <p class="p-sm">For lightweight, include rich versatile web applications, Rishabh Software is your go-to accomplice. We not just comprehend your business needs to devise an answer yet exceed everyone's expectations to wow your clients. The group is knowledgeable with HTML5, jQuery, and Sencha contact application advancement.
+                                <p class="p-sm">For lightweight, include rich versatile web applications, Vikas Solutions Software is your go-to accomplice. We not just comprehend your business needs to devise an answer yet exceed everyone's expectations to wow your clients. The group is knowledgeable with HTML5, jQuery, and Sencha contact application advancement.
                                 </p>
                             </div>
                             <div class="txt-box mb-30">
@@ -164,7 +164,7 @@
                             </div>
                             <div class="txt-box">
                                 <h5 class="h5-lg">App Support & Maintenance</h5>
-                                <p class="p-sm">Remembering your business targets and timetables, Rishabh gives versatile application upkeep and backing administrations that productively take care of the steadily advancing business sector patterns. We can assist you with augmenting your application's speed, versatility and security for higher ROI.</p>
+                                <p class="p-sm">Remembering your business targets and timetables, Vikas Solutions gives versatile application upkeep and backing administrations that productively take care of the steadily advancing business sector patterns. We can assist you with augmenting your application's speed, versatility and security for higher ROI.</p>
                             </div>
                         </div>
                     </div>

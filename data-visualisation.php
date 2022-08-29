@@ -19,7 +19,7 @@
     <link rel="icon" href="images/apple-touch-icon.png" type="image/x-icon">
 
     <!-- SITE TITLE -->
-    <title>Digital Process Automation | Vikas Solutions</title>
+    <title>Data Visualisation | Vikas Solutions</title>
 
     <!-- BOOTSTRAP CSS -->
     <link href="./assets/css/bootstrap.min.css" rel="stylesheet">
@@ -76,18 +76,18 @@
                     <div class="row">
                         <div class="col-md-12 col-lg-12">
                             <div class="about-2-title">
-                                <h2 class="h2-xl">Build modern apps, automate workflows & accelerate your transformation</h2>
-                                <p class="p-xl">Orchestrate business data, apps & end-to-end processes to drive efficiency gains. We build & implement custom digital process automation solutions that help reducing time, effort & cost.</p>
+                                <h2 class="h2-xl">Change Siloed Data into Interactive Reports that Increase Visibility</h2>
+                                <p class="p-xl">As a first class information representation organization, we enable organizations to create significant bits of knowledge, spot potential open doors and improve execution.</p>
                             </div>
                         </div>
                     </div>
                     <div class="about-2-images">
                         <div class="row row-cols-1 row-cols-md-2">
                             <div class="col col-md-5">
-                                <img class="img-fluid" src="./assets/images/website-data/digital-process-automation-01.png" style="border-radius: 10px" alt="about-image">
+                                <img class="img-fluid" src="./assets/images/website-data/data-visualisation-1.png" style="border-radius: 10px" alt="about-image">
                             </div>
                             <div class="col col-md-7">
-                                <img class="img-fluid" src="./assets/images/website-data/digital-process-automation-02.png" style="border-radius: 10px" alt="about-image">
+                                <img class="img-fluid" src="./assets/images/website-data/data-visualisation-2.png" style="border-radius: 10px" alt="about-image">
                             </div>
                         </div>
                     </div>
@@ -105,15 +105,15 @@
                     <div class="row">
                         <div class="col-lg-12 col-xl-12">
                             <div class="section-title title-01 mb-70">
-                                <h2 class="h2-md">Team up with an experienced digital automation company & gear up for revolution!</h2>
+                                <h2 class="h2-md">Track and contrast KPIs and patterns with end-with end perceivability</h2>
                             </div>
                         </div>
                     </div>
                     <div class="row d-flex align-items-center">
                         <div class="col-md-12 col-lg-12">
                             <div class="txt-block left-column wow fadeInRight">
-                                <p class="p-sm">As a computerized interaction mechanization (DPA) trained professionals, we've fueled change drives past digitization. Our gifted group is impeccably situated to assist you with utilizing a future-verification DPA system that expands the speed, scope and outcome of errand robotization and cycle coordination inside your association</p>
-                                <p class="p-sm">As your DPA innovation accomplice, we embrace a comprehensive methodology that beginnings by examining your manual progression of information and heritage frameworks that work in storehouses. Then we distinguish routine errands/processes where bots can be set and coordinate your digitalized frameworks. This is trailed by putting the expected innovation of RPA (UiPath and Robocorp) set up that robotize errands as well as start to finish processes, no matter how you look at it.</p>
+                                <p class="p-sm">There's an abundance of data in your current frameworks - immaculate! Furthermore, we can assist our clients with opening their information's maximum capacity. Our methodology is client-driven, intended to help your exhibition, address your IT resourcing challenges, and create dashboards that empower you to improve, enhance and advance.</p>
+                                <p class="p-sm">Being versatile first and stage freethinker is center to our advancement interaction. Our custom representation capacities cover the turn of events and sending of instinctive dashboards according to stage need - web and cell phone. We have insight in creating complex information viz dashboards, plan altered ones, and coordinate information from numerous sources with constant updation.</p>
                             </div>
                         </div>
                     </div>
@@ -129,27 +129,34 @@
                     <div class="col-lg-12 col-xl-12">
                         <div class="section-title title-01 mb-70">
                             <h2 class="h2-md">Services We Offer</h2>
-                            <p class="p-xl">Businesses today are looking for agile and fluid strategies to accelerate productivity and swiftly build responsive value chains. To help our clients achieve this goal, we combine our technical capabilities with solid subject matter expertise and deliver end-to-end automation implementations.</p>
                         </div>
                     </div>
                 </div>
                 <div class="row d-flex align-items-center">
-                    <div class="col-md-6 col-lg-5">
+                    <div class="col-md-6 col-lg-6">
                         <div class="txt-block left-column wow fadeInRight">
                             <div class="txt-box mb-30">
-                                <h5 class="h5-lg">Low Code Platform Apps</h5>
-                                <p class="p-sm">We outfit the maximum capacity of Microsoft Power Platform to create secure and adaptable undertaking grade applications that productively organize the work process between your kin, processes, frameworks and administrations to drive extraordinary degrees of effectiveness and dexterity.
+                                <h5 class="h5-lg">Data Platform Development</h5>
+                                <p class="p-sm">Our specialists in information perception counseling will break down your business needs. As needs be, we will carry out industry-driving stages that change your way to deal with putting away, sharing, and breaking down information by making an incorporated help. It will be comprehensive of a protected information stockroom, effective BI devices, and a full set-up of adaptable information science and insightful conditions that effectively adjust to your developing business needs.
                                 </p>
                             </div>
                             <div class="txt-box">
-                                <h5 class="h5-lg">Multiplatform. Always Synced</h5>
-                                <p class="p-sm">Businesses need an RPA solution that is easy to implement, works efficiently, scales quickly & integrates seamlessly without disruption. To bring value & ultimate satisfaction even to the most demanding clients, we use comprehensive automation platform like UiPath & open-source RPA tool like Robocorp. </p>
+                                <h5 class="h5-lg">Reports and Dashboards Development</h5>
+                                <p class="p-sm">As a top of the line supplier of custom information perception arrangements, Rishabh has practical experience in making full-scale reports and dashboards for various end-clients - from ones with no examination skill to information experts and CEOs to organization clients. Our group assists you with picking the right BI devices (Tableau Or Power BI) that suit your interesting requirements.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-7">
-                        <div class="img-block right-column wow fadeInLeft">
-                            <img class="img-fluid" src="./assets/images/website-data/img-19.png" alt="content-image">
+                    <div class="col-md-6 col-lg-6">
+                        <div class="txt-block left-column wow fadeInRight">
+                            <div class="txt-box mb-30">
+                                <h5 class="h5-lg">Visualization & Dashboard Optimization</h5>
+                                <p class="p-sm">Our BI specialists enhance at the information source, information climate levels, and the information model to convey the dashboard that is according to your necessity. This assists you improve your everyday tasks with ML-driven insight and change your activities into information driven processes. Collaborate with us to finetune your current dashboards, examination, reports and BI answers for tackle genuine business issues and succeed.
+                                </p>
+                            </div>
+                            <div class="txt-box">
+                                <h5 class="h5-lg">SQL Server Reporting Services (SSRS) Development</h5>
+                                <p class="p-sm">Being a MS Gold Certified Partner organization, our engineers can foster SSRS reports with start to finish execution and coordination with your BI or Data viz stage. From moving your revealing stage to conveying reports in various configurations, we're able to work across business verticals and assist you with settling existing bottlenecks and unavoidable difficulties.</p>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -172,21 +179,7 @@
                         <div class="col">
                             <div class="brand-logo">
                                 <a href="#">
-                                    <img class="img-fluid" src="./assets/images/website-data/power-apps.png" alt="Power Apps" />
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col">
-                            <div class="brand-logo">
-                                <a href="#">
-                                    <img class="img-fluid" src="./assets/images/website-data/power-automate.png" alt="Power Automate" />
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col">
-                            <div class="brand-logo">
-                                <a href="#">
-                                    <img class="img-fluid" src="./assets/images/website-data/power-viryual-agents.png" alt="Power Virtual Agents" />
+                                    <img class="img-fluid" src="./assets/images/website-data/apache-superset.png" alt="Apache Superset" />
                                 </a>
                             </div>
                         </div>
@@ -200,14 +193,21 @@
                         <div class="col">
                             <div class="brand-logo">
                                 <a href="#">
-                                    <img class="img-fluid" src="./assets/images/website-data/robocorp.png" alt="Robocorp" />
+                                    <img class="img-fluid" src="./assets/images/website-data/qlik.png" alt="Qlik" />
                                 </a>
                             </div>
                         </div>
                         <div class="col">
                             <div class="brand-logo">
                                 <a href="#">
-                                    <img class="img-fluid" src="./assets/images/website-data/ui-path.png" alt="UI Path" />
+                                    <img class="img-fluid" src="./assets/images/website-data/reporting-services.png" alt="Microsoft  SQL Server Reporting Services" />
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="brand-logo">
+                                <a href="#">
+                                    <img class="img-fluid" src="./assets/images/website-data/tableau.png" alt="Tableau" />
                                 </a>
                             </div>
                         </div>
@@ -223,8 +223,8 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-12 col-xl-12">
                         <div class="section-title title-01 mb-70">
-                            <h2 class="h2-md">Digital automation services that are transforming the way businesses work</h2>
-                            <p class="p-xl">Our customized way to deal with carefully planning business needs and conveying predominant computerized arrangements has procured us the trust of driving tech organizations around the world. Launch your computerization process with us to accomplish the speed and accuracy you really want to drive better business results and ROI.
+                            <h2 class="h2-md">A data visualization services company that can transform reporting forever</h2>
+                            <p class="p-xl">With a cooperative methodology, our group investigates your extraordinary business needs prior to planning a custom BI/representation arrangement, complete with guidance on the best BI instruments, procedures, and innovation stack.
                             </p>
                         </div>
                     </div>
@@ -235,12 +235,12 @@
                             <div class="fbox-4 pr-25 mb-40 wow fadeInUp">
                                 <div class="fbox-ico">
                                     <div>
-                                        <img src="./assets/images/website-data/multi-domain-experience.png" style="width: 70px; height: auto" alt="content-image" />
+                                        <img src="./assets/images/website-data/custom-dashboard.png" style="width: 70px; height: auto" alt="content-image" />
                                     </div>
                                 </div>
                                 <div class="fbox-txt">
-                                    <h5 class="h5-md">Multi-domain Experience</h5>
-                                    <p class="p-sm">We have two decades of experience in driving digitalization and automation initiatives for small, medium, and large companies across industries. We deliver transformation through our industry-specific consulting capabilities & extensive process optimization experience.
+                                    <h5 class="h5-md">Custom Visualization Solutions</h5>
+                                    <p class="p-sm">Our guaranteed BI specialists survey your current information and its sources and fabricate a custom information perception model without any preparation to suit your business objectives and favored tech stack.
                                     </p>
                                 </div>
                             </div>
@@ -249,12 +249,12 @@
                             <div class="fbox-4 pl-25 mb-40 wow fadeInUp">
                                 <div class="fbox-ico">
                                     <div>
-                                        <img src="./assets/images/website-data/customer-focus.png" style="width: 70px; height: auto" alt="content-image" />
+                                        <img src="./assets/images/website-data/mobile-friendly.png" style="width: 70px; height: auto" alt="content-image" />
                                     </div>
                                 </div>
                                 <div class="fbox-txt">
-                                    <h5 class="h5-md">Customer-first Focus</h5>
-                                    <p class="p-sm">Our clients value our agility, responsiveness, and genuine desire to enable them to optimize & scale. They benefit from our extensive experience, powerful business automation tools, integration capabilities & fail-safe solutions designed to perform will in future.
+                                    <h5 class="h5-md">Mobile-Friendly</h5>
+                                    <p class="p-sm">We assist you with building natural dashboards and reports that can be gotten to on each gadget. Our outcome situated group empowers your business to develop into a portable first, carefully associated venture.
                                     </p>
                                 </div>
                             </div>
@@ -263,12 +263,12 @@
                             <div class="fbox-4 pr-25 mb-40 wow fadeInUp">
                                 <div class="fbox-ico">
                                     <div>
-                                        <img src="./assets/images/website-data/medal.png" style="width: 70px; height: auto" alt="content-image" />
+                                        <img src="./assets/images/website-data/capabilities.png" style="width: 70px; height: auto" alt="content-image" />
                                     </div>
                                 </div>
                                 <div class="fbox-txt">
-                                    <h5 class="h5-md">Microsoft Center of Excellence</h5>
-                                    <p class="p-sm">We have 2 decades of experience in working on Microsoft tech delivering custom software solutions with a strong emphasis on enablement, governance, change management, support, and continuous monitoring. You can count on us to streamline the success of your development and automation initiatives
+                                    <h5 class="h5-md">Unrivaled Capabilities</h5>
+                                    <p class="p-sm">Upheld by a few effective BI and Analytics executions, Rishabh is a top of the line innovation collaborate with a coordinated group, gaining practical experience in Microsoft Power BI.
                                     </p>
                                 </div>
                             </div>
@@ -277,12 +277,12 @@
                             <div class="fbox-4 pl-25 mb-40 wow fadeInUp">
                                 <div class="fbox-ico">
                                     <div>
-                                        <img src="./assets/images/website-data/add-ons.png" style="width: 70px; height: auto" alt="content-image" />
+                                        <img src="./assets/images/website-data/maintenance.png" style="width: 70px; height: auto" alt="content-image" />
                                     </div>
                                 </div>
                                 <div class="fbox-txt">
-                                    <h5 class="h5-md">Data Management Capabilities</h5>
-                                    <p class="p-sm">The volume & variety of business data is increasing exponentially with more processes and applications. Vikas Solutions can help with total data management to build modernized information architecture. Right from ETL to data lake/data warehouse to data visualization using PowerBI – We do it all.
+                                    <h5 class="h5-md">Support & Maintenance</h5>
+                                    <p class="p-sm">Our association goes past execution with brief help and support that drive client reception and empower you to separate ideal worth from your information. We're specialists that consideration!
                                     </p>
                                 </div>
                             </div>

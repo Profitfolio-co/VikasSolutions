@@ -19,7 +19,7 @@
     <link rel="icon" href="images/apple-touch-icon.png" type="image/x-icon">
 
     <!-- SITE TITLE -->
-    <title>Digital Process Automation | Vikas Solutions</title>
+    <title>Data Engineering | Vikas Solutions</title>
 
     <!-- BOOTSTRAP CSS -->
     <link href="./assets/css/bootstrap.min.css" rel="stylesheet">
@@ -76,18 +76,18 @@
                     <div class="row">
                         <div class="col-md-12 col-lg-12">
                             <div class="about-2-title">
-                                <h2 class="h2-xl">Build modern apps, automate workflows & accelerate your transformation</h2>
-                                <p class="p-xl">Orchestrate business data, apps & end-to-end processes to drive efficiency gains. We build & implement custom digital process automation solutions that help reducing time, effort & cost.</p>
+                                <h2 class="h2-xl">Configuration, Build and Operationalize All Your Modern Data Projects</h2>
+                                <p class="p-xl">Influence Vikas Solution's start to finish information designing administrations and answers for speed up opportunity to-esteem and diminish cost-of-value.</p>
                             </div>
                         </div>
                     </div>
                     <div class="about-2-images">
                         <div class="row row-cols-1 row-cols-md-2">
                             <div class="col col-md-5">
-                                <img class="img-fluid" src="./assets/images/website-data/digital-process-automation-01.png" style="border-radius: 10px" alt="about-image">
+                                <img class="img-fluid" src="./assets/images/website-data/data-engineering-1.png" style="border-radius: 10px" alt="about-image">
                             </div>
                             <div class="col col-md-7">
-                                <img class="img-fluid" src="./assets/images/website-data/digital-process-automation-02.png" style="border-radius: 10px" alt="about-image">
+                                <img class="img-fluid" src="./assets/images/website-data/data-engineering-2.png" style="border-radius: 10px" alt="about-image">
                             </div>
                         </div>
                     </div>
@@ -105,15 +105,16 @@
                     <div class="row">
                         <div class="col-lg-12 col-xl-12">
                             <div class="section-title title-01 mb-70">
-                                <h2 class="h2-md">Team up with an experienced digital automation company & gear up for revolution!</h2>
+                                <h2 class="h2-md">An expert information designing organization to make custom, adaptable and versatile information stages</h2>
                             </div>
                         </div>
                     </div>
                     <div class="row d-flex align-items-center">
                         <div class="col-md-12 col-lg-12">
                             <div class="txt-block left-column wow fadeInRight">
-                                <p class="p-sm">As a computerized interaction mechanization (DPA) trained professionals, we've fueled change drives past digitization. Our gifted group is impeccably situated to assist you with utilizing a future-verification DPA system that expands the speed, scope and outcome of errand robotization and cycle coordination inside your association</p>
-                                <p class="p-sm">As your DPA innovation accomplice, we embrace a comprehensive methodology that beginnings by examining your manual progression of information and heritage frameworks that work in storehouses. Then we distinguish routine errands/processes where bots can be set and coordinate your digitalized frameworks. This is trailed by putting the expected innovation of RPA (UiPath and Robocorp) set up that robotize errands as well as start to finish processes, no matter how you look at it.</p>
+                                <p class="p-sm">As far as we might be concerned, information the board and investigation is a way to empower organizations to adapt and expand the worth of their information by adopting an organized strategy. We cover the full life pattern of information the executives - information ingestion, information quality, inventory and information provisioning. We assist associations with progressing to a higher degree of information use by giving information revelation and development evaluation, information quality checks and normalization, cloud-based answers for enormous volumes of data, bunch information handling with streamlining of the data set, information distribution center stages and that's just the beginning.</p>
+                                <p class="p-sm">Our group can foster information design by incorporating new and existing information sources to make more viable information lakes. Further, they don't zero in just on organizing the data set and testing functional proficiency yet additionally empower you to quickly and dependably carry out the arrangements so you're ready to convey in areas vital to your prosperity.</p>
+                                <p class="p-sm">Our information engineers have insight with both on-premises arrangements and cloud innovations - they have active aptitude with AWS and Azure stages and influence them for complex information designing work. They can assist with coordinating ETL pipelines, information stockrooms, BI apparatuses and administration processes. We fabricate areas of strength for an of information and assist with producing experiences from information mining. Our essential objective is to handle basic innovation gives that keep organizations from taking advantage of chances to change themselves into an information sharp organization.</p>
                             </div>
                         </div>
                     </div>
@@ -129,27 +130,42 @@
                     <div class="col-lg-12 col-xl-12">
                         <div class="section-title title-01 mb-70">
                             <h2 class="h2-md">Services We Offer</h2>
-                            <p class="p-xl">Businesses today are looking for agile and fluid strategies to accelerate productivity and swiftly build responsive value chains. To help our clients achieve this goal, we combine our technical capabilities with solid subject matter expertise and deliver end-to-end automation implementations.</p>
                         </div>
                     </div>
                 </div>
                 <div class="row d-flex align-items-center">
-                    <div class="col-md-6 col-lg-5">
+                    <div class="col-md-6 col-lg-6">
                         <div class="txt-block left-column wow fadeInRight">
                             <div class="txt-box mb-30">
-                                <h5 class="h5-lg">Low Code Platform Apps</h5>
-                                <p class="p-sm">We outfit the maximum capacity of Microsoft Power Platform to create secure and adaptable undertaking grade applications that productively organize the work process between your kin, processes, frameworks and administrations to drive extraordinary degrees of effectiveness and dexterity.
+                                <h5 class="h5-lg">Data Modernization</h5>
+                                <p class="p-sm">We make brilliant stages that effectively assist present day ventures with developing. In an arranged methodology our group moves your business information from heritage information distribution centers and on-premise frameworks onto cloud-based information lakes or stockroom. This offers various open doors for organizations to direct continuous investigation and examination.
                                 </p>
                             </div>
-                            <div class="txt-box">
-                                <h5 class="h5-lg">Multiplatform. Always Synced</h5>
-                                <p class="p-sm">Businesses need an RPA solution that is easy to implement, works efficiently, scales quickly & integrates seamlessly without disruption. To bring value & ultimate satisfaction even to the most demanding clients, we use comprehensive automation platform like UiPath & open-source RPA tool like Robocorp. </p>
+                            <div class="txt-box mb-30">
+                                <h5 class="h5-lg">Data Pipelines</h5>
+                                <p class="p-sm">We can help build production-grade, independent data workflow pipelines that enable swift movement, transformation & storage of data. This is achieved by utilizing various legacy, Big Data and/or cloud orchestration and data management pipeline tools and techniques like DF, Databricks, Synapse & more to process data in batch and real-time.</p>
+                            </div>
+                            <div class="txt-box mb-30">
+                                <h5 class="h5-lg">Data CI CD</h5>
+                                <p class="p-sm">Our CI/CD administrations assist you with computerizing the manner in which you configuration, test and convey your applications while guaranteeing cost-effective and opportune conveyance of elite execution programming. Our group has capability in creating effective creation construct and delivery pipelines across both heritage and cloud-based sending administrations.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-7">
-                        <div class="img-block right-column wow fadeInLeft">
-                            <img class="img-fluid" src="./assets/images/website-data/img-19.png" alt="content-image">
+                    <div class="col-md-6 col-lg-6">
+                        <div class="txt-block left-column wow fadeInRight">
+                            <div class="txt-box mb-30">
+                                <h5 class="h5-lg">Data Ingestion</h5>
+                                <p class="p-sm">Organizations go with information driven choices and the worth of that information relies upon their capacity to ingest it. With Vikas Solutions, you can separate organized and unstructured information from all sources (streaming and cluster) to refine/scrub it while making it accessible on heritage frameworks or cloud frameworks in a steady configuration.
+                                </p>
+                            </div>
+                            <div class="txt-box mb-30">
+                                <h5 class="h5-lg">ETL</h5>
+                                <p class="p-sm">Present day organizations produce and store enormous measures of information everyday. Nonetheless, the capability of this information frequently stays undiscovered because of its sheer assortment and volume. With our information designing group, you don't have to battle with complex ETL and ELT occupations. It will save you time, exertion and cash without settling for less on the adaptability.</p>
+                            </div>
+                            <div class="txt-box mb-30">
+                                <h5 class="h5-lg">Data Lakes & Data Warehouse</h5>
+                                <p class="p-sm">We assist with building information storehouses quickly to help fundamental business capabilities. Our group can help quickly solidify information in a solitary spot for empowering faster examination and information experiences from bounteous sums and shifted sorts of information (social, logs, JSON) with mindfully planned information lakes, stockrooms, or information shops.</p>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -157,74 +173,14 @@
         </section>
         <!-- CONTENT END -->
 
-        <!-- TOOLS AND TECHNOLOGIES START -->
-        <div id="brands-2" class="pt-70 pb-70 brands-section division">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-lg-8">
-                        <div class="brands-title text-center">
-                            <h2 class="h2-md">Tools &amp; Technologies</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="brands-2-wrapper mt-50">
-                    <div class="row justify-content-md-center row-cols-2 row-cols-sm-3 row-cols-md-4">
-                        <div class="col">
-                            <div class="brand-logo">
-                                <a href="#">
-                                    <img class="img-fluid" src="./assets/images/website-data/power-apps.png" alt="Power Apps" />
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col">
-                            <div class="brand-logo">
-                                <a href="#">
-                                    <img class="img-fluid" src="./assets/images/website-data/power-automate.png" alt="Power Automate" />
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col">
-                            <div class="brand-logo">
-                                <a href="#">
-                                    <img class="img-fluid" src="./assets/images/website-data/power-viryual-agents.png" alt="Power Virtual Agents" />
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col">
-                            <div class="brand-logo">
-                                <a href="#">
-                                    <img class="img-fluid" src="./assets/images/website-data/power-bi.png" alt="Power BI" />
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col">
-                            <div class="brand-logo">
-                                <a href="#">
-                                    <img class="img-fluid" src="./assets/images/website-data/robocorp.png" alt="Robocorp" />
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col">
-                            <div class="brand-logo">
-                                <a href="#">
-                                    <img class="img-fluid" src="./assets/images/website-data/ui-path.png" alt="UI Path" />
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- TOOLS AND TECHNOLOGIES END -->
-
         <!-- CONTENT START -->
         <section id="features-4" class="pt-60 pb-60 features-section division">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-12 col-xl-12">
                         <div class="section-title title-01 mb-70">
-                            <h2 class="h2-md">Digital automation services that are transforming the way businesses work</h2>
-                            <p class="p-xl">Our customized way to deal with carefully planning business needs and conveying predominant computerized arrangements has procured us the trust of driving tech organizations around the world. Launch your computerization process with us to accomplish the speed and accuracy you really want to drive better business results and ROI.
+                            <h2 class="h2-md">Endeavor information the executives to speed up your computerized development for powerful direction</h2>
+                            <p class="p-xl">Vikas Solutions assists organizations with settling their information challenges with sound business procedures that depend on precise bits of knowledge. Our information designing specialists help clients with start to finish information lifecycle the executives - from arranging and planning to execution.
                             </p>
                         </div>
                     </div>
@@ -235,12 +191,12 @@
                             <div class="fbox-4 pr-25 mb-40 wow fadeInUp">
                                 <div class="fbox-ico">
                                     <div>
-                                        <img src="./assets/images/website-data/multi-domain-experience.png" style="width: 70px; height: auto" alt="content-image" />
+                                        <img src="./assets/images/website-data/result-oriented.png" style="width: 70px; height: auto" alt="content-image" />
                                     </div>
                                 </div>
                                 <div class="fbox-txt">
-                                    <h5 class="h5-md">Multi-domain Experience</h5>
-                                    <p class="p-sm">We have two decades of experience in driving digitalization and automation initiatives for small, medium, and large companies across industries. We deliver transformation through our industry-specific consulting capabilities & extensive process optimization experience.
+                                    <h5 class="h5-md">Result-driven Approach</h5>
+                                    <p class="p-sm">Not at all like innovation driven organizations, Rishabh's information designing practice is result-arranged. We center around building versatile information model establishments with substances and components that go past archived use cases to drive ideal incentive for your business.
                                     </p>
                                 </div>
                             </div>
@@ -249,12 +205,12 @@
                             <div class="fbox-4 pl-25 mb-40 wow fadeInUp">
                                 <div class="fbox-ico">
                                     <div>
-                                        <img src="./assets/images/website-data/customer-focus.png" style="width: 70px; height: auto" alt="content-image" />
+                                        <img src="./assets/images/website-data/global-enterprises.png" style="width: 70px; height: auto" alt="content-image" />
                                     </div>
                                 </div>
                                 <div class="fbox-txt">
-                                    <h5 class="h5-md">Customer-first Focus</h5>
-                                    <p class="p-sm">Our clients value our agility, responsiveness, and genuine desire to enable them to optimize & scale. They benefit from our extensive experience, powerful business automation tools, integration capabilities & fail-safe solutions designed to perform will in future.
+                                    <h5 class="h5-md">Engagement & Partnership</h5>
+                                    <p class="p-sm">We work with clients as their drawn out improvement join forces with a light-footed approach spread across visioning to arranging, conveyance and backing while at the same time making due, keeping a committed group of experts as their virtual staff.
                                     </p>
                                 </div>
                             </div>
@@ -263,12 +219,12 @@
                             <div class="fbox-4 pr-25 mb-40 wow fadeInUp">
                                 <div class="fbox-ico">
                                     <div>
-                                        <img src="./assets/images/website-data/medal.png" style="width: 70px; height: auto" alt="content-image" />
+                                        <img src="./assets/images/website-data/cloud-advisory.png" style="width: 70px; height: auto" alt="content-image" />
                                     </div>
                                 </div>
                                 <div class="fbox-txt">
-                                    <h5 class="h5-md">Microsoft Center of Excellence</h5>
-                                    <p class="p-sm">We have 2 decades of experience in working on Microsoft tech delivering custom software solutions with a strong emphasis on enablement, governance, change management, support, and continuous monitoring. You can count on us to streamline the success of your development and automation initiatives
+                                    <h5 class="h5-md">Cloud Data Engineering Advisory</h5>
+                                    <p class="p-sm">Our group uses the most recent in cloud innovations to help quick and versatile information conglomeration with a negligible code work out. From cloud evaluation and BI enablement to information stockroom and oversaw administrations, we assist you with conquering each test with our information designing abilities.
                                     </p>
                                 </div>
                             </div>
@@ -277,12 +233,12 @@
                             <div class="fbox-4 pl-25 mb-40 wow fadeInUp">
                                 <div class="fbox-ico">
                                     <div>
-                                        <img src="./assets/images/website-data/add-ons.png" style="width: 70px; height: auto" alt="content-image" />
+                                        <img src="./assets/images/website-data/value-for-money.png" style="width: 70px; height: auto" alt="content-image" />
                                     </div>
                                 </div>
                                 <div class="fbox-txt">
-                                    <h5 class="h5-md">Data Management Capabilities</h5>
-                                    <p class="p-sm">The volume & variety of business data is increasing exponentially with more processes and applications. Vikas Solutions can help with total data management to build modernized information architecture. Right from ETL to data lake/data warehouse to data visualization using PowerBI – We do it all.
+                                    <h5 class="h5-md">Best Possible TCO</h5>
+                                    <p class="p-sm">Our information designing arrangements influence strong, adaptable, and reusable runbooks, structures and layouts for information administration, characterization and quality administration. This upgrades costs while speeding up the reception of cutting edge investigation.
                                     </p>
                                 </div>
                             </div>

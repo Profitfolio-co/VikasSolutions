@@ -420,7 +420,7 @@
 										<span class="flaticon-left-quote"></span>
 									</div>
 									<div class="review-1-txt">
-										<p class="p-lg">Vikas Solutions is the team you want to work with – honest, reliable and hard-working. They treat your project like it’s their own and they treat their clients like family. It has been a true pleasure working with Rishabh to scale my business and I look forward to many more prosperous years.  			   
+										<p class="p-lg">Vikas Solutions is the team you want to work with – honest, reliable and hard-working. They treat your project like it’s their own and they treat their clients like family. It has been a true pleasure working with Vikas Solutions to scale my business and I look forward to many more prosperous years.  			   
 										</p>
 										<div class="author-data clearfix">
 											<div class="review-avatar">

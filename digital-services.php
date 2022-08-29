@@ -19,7 +19,7 @@
     <link rel="icon" href="images/apple-touch-icon.png" type="image/x-icon">
 
     <!-- SITE TITLE -->
-    <title>Digital Process Automation | Vikas Solutions</title>
+    <title>Digital Services | Vikas Solutions</title>
 
     <!-- BOOTSTRAP CSS -->
     <link href="./assets/css/bootstrap.min.css" rel="stylesheet">
@@ -76,18 +76,18 @@
                     <div class="row">
                         <div class="col-md-12 col-lg-12">
                             <div class="about-2-title">
-                                <h2 class="h2-xl">Build modern apps, automate workflows & accelerate your transformation</h2>
-                                <p class="p-xl">Orchestrate business data, apps & end-to-end processes to drive efficiency gains. We build & implement custom digital process automation solutions that help reducing time, effort & cost.</p>
+                                <h2 class="h2-xl">Construct a Brand That Stands Out in Today's Digital World</h2>
+                                <p class="p-xl">We mix our tech aptitude and visionary outlook to assist you with enchanting clients across touchpoints</p>
                             </div>
                         </div>
                     </div>
                     <div class="about-2-images">
                         <div class="row row-cols-1 row-cols-md-2">
                             <div class="col col-md-5">
-                                <img class="img-fluid" src="./assets/images/website-data/digital-process-automation-01.png" style="border-radius: 10px" alt="about-image">
+                                <img class="img-fluid" src="./assets/images/website-data/digital-services-1.png" style="border-radius: 10px" alt="about-image">
                             </div>
                             <div class="col col-md-7">
-                                <img class="img-fluid" src="./assets/images/website-data/digital-process-automation-02.png" style="border-radius: 10px" alt="about-image">
+                                <img class="img-fluid" src="./assets/images/website-data/digital-services-2.png" style="border-radius: 10px" alt="about-image">
                             </div>
                         </div>
                     </div>
@@ -105,15 +105,15 @@
                     <div class="row">
                         <div class="col-lg-12 col-xl-12">
                             <div class="section-title title-01 mb-70">
-                                <h2 class="h2-md">Team up with an experienced digital automation company & gear up for revolution!</h2>
+                                <h2 class="h2-md">Conveying computerized client encounters that help re-light development</h2>
                             </div>
                         </div>
                     </div>
                     <div class="row d-flex align-items-center">
                         <div class="col-md-12 col-lg-12">
                             <div class="txt-block left-column wow fadeInRight">
-                                <p class="p-sm">As a computerized interaction mechanization (DPA) trained professionals, we've fueled change drives past digitization. Our gifted group is impeccably situated to assist you with utilizing a future-verification DPA system that expands the speed, scope and outcome of errand robotization and cycle coordination inside your association</p>
-                                <p class="p-sm">As your DPA innovation accomplice, we embrace a comprehensive methodology that beginnings by examining your manual progression of information and heritage frameworks that work in storehouses. Then we distinguish routine errands/processes where bots can be set and coordinate your digitalized frameworks. This is trailed by putting the expected innovation of RPA (UiPath and Robocorp) set up that robotize errands as well as start to finish processes, no matter how you look at it.</p>
+                                <p class="p-sm">We are a section imaginative, part key and part innovation force to be reckoned with, who assist with opening personalization open doors with a client first methodology - consistently. Our groups assist associations with scaling the advanced development bend quicker. At Vikas Solutions, we support you with either digitalizing explicit business processes or a total computerized update of the IT frameworks. With groups talented in different advances, we can assist with web and versatile item designing, re-designing heritage applications, building AI-fueled arrangements and substantially more.</p>
+                                <p class="p-sm">Our group use driving open-source web structures, for example, Drupal and WordPress alongside front-end innovations including React, React Native, Angular, Flutter, and more to make a consistent encounter. They have a fortification on front-end engineering and plan, UI/UX improvement.</p>
                             </div>
                         </div>
                     </div>
@@ -129,27 +129,34 @@
                     <div class="col-lg-12 col-xl-12">
                         <div class="section-title title-01 mb-70">
                             <h2 class="h2-md">Services We Offer</h2>
-                            <p class="p-xl">Businesses today are looking for agile and fluid strategies to accelerate productivity and swiftly build responsive value chains. To help our clients achieve this goal, we combine our technical capabilities with solid subject matter expertise and deliver end-to-end automation implementations.</p>
                         </div>
                     </div>
                 </div>
                 <div class="row d-flex align-items-center">
-                    <div class="col-md-6 col-lg-5">
+                    <div class="col-md-6 col-lg-6">
                         <div class="txt-block left-column wow fadeInRight">
                             <div class="txt-box mb-30">
-                                <h5 class="h5-lg">Low Code Platform Apps</h5>
-                                <p class="p-sm">We outfit the maximum capacity of Microsoft Power Platform to create secure and adaptable undertaking grade applications that productively organize the work process between your kin, processes, frameworks and administrations to drive extraordinary degrees of effectiveness and dexterity.
+                                <h5 class="h5-lg">Digital Commerce</h5>
+                                <p class="p-sm">We power brands with cutting edge advances to contend in the present multi-channel scene. Our skill across instruments and innovations like Magento, WooCommerce, PrestaShop, and Opencart empowers us to assemble client driven web based business arrangements that help more grounded commitment.
                                 </p>
                             </div>
                             <div class="txt-box">
-                                <h5 class="h5-lg">Multiplatform. Always Synced</h5>
-                                <p class="p-sm">Businesses need an RPA solution that is easy to implement, works efficiently, scales quickly & integrates seamlessly without disruption. To bring value & ultimate satisfaction even to the most demanding clients, we use comprehensive automation platform like UiPath & open-source RPA tool like Robocorp. </p>
+                                <h5 class="h5-lg">CMS Development</h5>
+                                <p class="p-sm">Our experts can assemble and convey CMS arrangements that offer consistent and practical web content administration while profiting by site lead age. We assist with creating content administration frameworks for eCommerce and corporate sites, intranets and long range interpersonal communication entryways. With a simple to-oversee content administration framework, you can undoubtedly make changes as your necessities develop.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-7">
-                        <div class="img-block right-column wow fadeInLeft">
-                            <img class="img-fluid" src="./assets/images/website-data/img-19.png" alt="content-image">
+                    <div class="col-md-6 col-lg-6">
+                        <div class="txt-block left-column wow fadeInRight">
+                            <div class="txt-box mb-30">
+                                <h5 class="h5-lg">Consumer Mobility</h5>
+                                <p class="p-sm">In this age of a multi-platform presence, constantly evolving technologies, changing user expectations and more, consumer-focused apps can amplify your reach. Vikas Solutions brings years of experience in building consumer apps that can help create a simpler yet engaging customer experience.
+                                </p>
+                            </div>
+                            <div class="txt-box">
+                                <h5 class="h5-lg">Application Support</h5>
+                                <p class="p-sm">Our help reaches out past conveyance with start to finish application backing and support. At the point when the right innovation is upheld by our profound pool of mastery; you can guarantee business progression and lift the client experience across the whole worth chain. We further lift this by giving OS overhauls, coordinating more current highlights, and taking on present day plan components that make your web based business application spry and future-prepared.</p>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -172,42 +179,49 @@
                         <div class="col">
                             <div class="brand-logo">
                                 <a href="#">
-                                    <img class="img-fluid" src="./assets/images/website-data/power-apps.png" alt="Power Apps" />
+                                    <img class="img-fluid" src="./assets/images/website-data/wordpress.png" alt="Wordpress" />
                                 </a>
                             </div>
                         </div>
                         <div class="col">
                             <div class="brand-logo">
                                 <a href="#">
-                                    <img class="img-fluid" src="./assets/images/website-data/power-automate.png" alt="Power Automate" />
+                                    <img class="img-fluid" src="./assets/images/website-data/apple.png" alt="Apple" />
                                 </a>
                             </div>
                         </div>
                         <div class="col">
                             <div class="brand-logo">
                                 <a href="#">
-                                    <img class="img-fluid" src="./assets/images/website-data/power-viryual-agents.png" alt="Power Virtual Agents" />
+                                    <img class="img-fluid" src="./assets/images/website-data/android.png" alt="Android" />
                                 </a>
                             </div>
                         </div>
                         <div class="col">
                             <div class="brand-logo">
                                 <a href="#">
-                                    <img class="img-fluid" src="./assets/images/website-data/power-bi.png" alt="Power BI" />
+                                    <img class="img-fluid" src="./assets/images/website-data/react-native.png" alt="React Native" />
                                 </a>
                             </div>
                         </div>
                         <div class="col">
                             <div class="brand-logo">
                                 <a href="#">
-                                    <img class="img-fluid" src="./assets/images/website-data/robocorp.png" alt="Robocorp" />
+                                    <img class="img-fluid" src="./assets/images/website-data/xamarin.png" alt="Xamarin" />
                                 </a>
                             </div>
                         </div>
                         <div class="col">
                             <div class="brand-logo">
                                 <a href="#">
-                                    <img class="img-fluid" src="./assets/images/website-data/ui-path.png" alt="UI Path" />
+                                    <img class="img-fluid" src="./assets/images/website-data/flutter.png" alt="Flutter" />
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="brand-logo">
+                                <a href="#">
+                                    <img class="img-fluid" src="./assets/images/website-data/opencart.png" alt="Opencart" />
                                 </a>
                             </div>
                         </div>
@@ -223,8 +237,8 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-12 col-xl-12">
                         <div class="section-title title-01 mb-70">
-                            <h2 class="h2-md">Digital automation services that are transforming the way businesses work</h2>
-                            <p class="p-xl">Our customized way to deal with carefully planning business needs and conveying predominant computerized arrangements has procured us the trust of driving tech organizations around the world. Launch your computerization process with us to accomplish the speed and accuracy you really want to drive better business results and ROI.
+                            <h2 class="h2-md">Digital experience benefits that assist with driving separation through problematic arrangements</h2>
+                            <p class="p-xl">We consolidate our multi-area ability and worldwide client understanding to follow through on client driven needs. Vikas Solutions enables associations to change client travels and take on understanding drove cycles to convey natural and very good quality encounters.
                             </p>
                         </div>
                     </div>
@@ -235,12 +249,12 @@
                             <div class="fbox-4 pr-25 mb-40 wow fadeInUp">
                                 <div class="fbox-ico">
                                     <div>
-                                        <img src="./assets/images/website-data/multi-domain-experience.png" style="width: 70px; height: auto" alt="content-image" />
+                                        <img src="./assets/images/website-data/faster-go-to-market.png" style="width: 70px; height: auto" alt="content-image" />
                                     </div>
                                 </div>
                                 <div class="fbox-txt">
-                                    <h5 class="h5-md">Multi-domain Experience</h5>
-                                    <p class="p-sm">We have two decades of experience in driving digitalization and automation initiatives for small, medium, and large companies across industries. We deliver transformation through our industry-specific consulting capabilities & extensive process optimization experience.
+                                    <h5 class="h5-md">Faster Go-to-Market</h5>
+                                    <p class="p-sm">Our aptitude and specialized skill guarantee your go-to-advertise range is the most brief conceivable. A blend of strong methodologies with a thorough tech stack and improvement mastery empowers the production of exceptionally versatile frameworks.
                                     </p>
                                 </div>
                             </div>
@@ -249,12 +263,12 @@
                             <div class="fbox-4 pl-25 mb-40 wow fadeInUp">
                                 <div class="fbox-ico">
                                     <div>
-                                        <img src="./assets/images/website-data/customer-focus.png" style="width: 70px; height: auto" alt="content-image" />
+                                        <img src="./assets/images/website-data/successful-track-record.png" style="width: 70px; height: auto" alt="content-image" />
                                     </div>
                                 </div>
                                 <div class="fbox-txt">
-                                    <h5 class="h5-md">Customer-first Focus</h5>
-                                    <p class="p-sm">Our clients value our agility, responsiveness, and genuine desire to enable them to optimize & scale. They benefit from our extensive experience, powerful business automation tools, integration capabilities & fail-safe solutions designed to perform will in future.
+                                    <h5 class="h5-md">Successful Track Record</h5>
+                                    <p class="p-sm">We are a confided in accomplice for the computerized development of numerous associations universally. This acknowledgment approves our obligation to esteem conveyance, industry ability and drive to blow away task prerequisites.
                                     </p>
                                 </div>
                             </div>
@@ -263,12 +277,12 @@
                             <div class="fbox-4 pr-25 mb-40 wow fadeInUp">
                                 <div class="fbox-ico">
                                     <div>
-                                        <img src="./assets/images/website-data/medal.png" style="width: 70px; height: auto" alt="content-image" />
+                                        <img src="./assets/images/website-data/clean-coding.png" style="width: 70px; height: auto" alt="content-image" />
                                     </div>
                                 </div>
                                 <div class="fbox-txt">
-                                    <h5 class="h5-md">Microsoft Center of Excellence</h5>
-                                    <p class="p-sm">We have 2 decades of experience in working on Microsoft tech delivering custom software solutions with a strong emphasis on enablement, governance, change management, support, and continuous monitoring. You can count on us to streamline the success of your development and automation initiatives
+                                    <h5 class="h5-md">Clean Coding Practices</h5>
+                                    <p class="p-sm">We put to rehearse powerful cycles and components to guarantee proficient and clean coding rehearses that permit your web and portable answer for proceed as best as could really be expected.
                                     </p>
                                 </div>
                             </div>
@@ -277,12 +291,12 @@
                             <div class="fbox-4 pl-25 mb-40 wow fadeInUp">
                                 <div class="fbox-ico">
                                     <div>
-                                        <img src="./assets/images/website-data/add-ons.png" style="width: 70px; height: auto" alt="content-image" />
+                                        <img src="./assets/images/website-data/creative-powerhouse.png" style="width: 70px; height: auto" alt="content-image" />
                                     </div>
                                 </div>
                                 <div class="fbox-txt">
-                                    <h5 class="h5-md">Data Management Capabilities</h5>
-                                    <p class="p-sm">The volume & variety of business data is increasing exponentially with more processes and applications. Vikas Solutions can help with total data management to build modernized information architecture. Right from ETL to data lake/data warehouse to data visualization using PowerBI – We do it all.
+                                    <h5 class="h5-md">Creative Powerhouse</h5>
+                                    <p class="p-sm">We have a vigorous group of capable designers who assist with making drawing in visual stories for your business applications. We comprehend the intricate details of computerized business to help you foster a full-confirmation and reasonable engineering..
                                     </p>
                                 </div>
                             </div>
