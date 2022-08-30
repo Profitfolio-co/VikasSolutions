@@ -6558,7 +6558,6 @@ h5.posts-category {
   line-height: 1;
   font-weight: 500;
   margin-bottom: 10px;
-  padding-left: 10px;
 }
 
 #contacts-2 .contact-form .col-md-12 span {
@@ -6566,8 +6565,7 @@ h5.posts-category {
   font-size: 17px;
   line-height: 1;
   font-weight: 300;
-  margin-bottom: 25px;
-  padding-left: 10px;
+  margin-bottom: 15px;
 }
 
 /*------------------------------------------*/
@@ -7517,4 +7515,10 @@ p.forgot-password {
 
 nav a#pull {  
   display: none;  
+}
+
+.feature-heading {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 45px;
+  font-weight: 800;
 }

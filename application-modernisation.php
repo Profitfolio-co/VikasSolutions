@@ -324,7 +324,7 @@
                         <div class="col-lg-4">
                             <div class="text-end">
                                 <div class="cta-4-btn text-center">
-                                    <a href="#" class="btn btn-green tra-grey-hover">Contact Us Now</a>
+                                    <a href="./contact-us" class="btn btn-green tra-grey-hover">Contact Us Now</a>
                                 </div>
                             </div>
                         </div>

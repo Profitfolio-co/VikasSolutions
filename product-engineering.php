@@ -77,7 +77,7 @@
                         <div class="col-md-12 col-lg-12">
                             <div class="about-2-title">
                                 <h2 class="h2-xl">Construct Future Ready Custom Enterprise Products</h2>
-                                <p class="p-xl">Speed up opportunity to-advertise with Rishabh's custom item designing answers for augment your profits.</p>
+                                <p class="p-xl">Speed up opportunity to-advertise with Vikas Solution's custom item designing answers for augment your profits.</p>
                             </div>
                         </div>
                     </div>
@@ -331,7 +331,7 @@
                         <div class="col-lg-4">
                             <div class="text-end">
                                 <div class="cta-4-btn text-center">
-                                    <a href="#" class="btn btn-green tra-grey-hover">Contact Us Now</a>
+                                    <a href="./contact-us" class="btn btn-green tra-grey-hover">Contact Us Now</a>
                                 </div>
                             </div>
                         </div>

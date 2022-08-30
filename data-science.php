@@ -164,6 +164,66 @@
         </section>
         <!-- CONTENT END -->
 
+        <!-- TOOLS AND TECHNOLOGIES START -->
+        <div id="brands-2" class="pt-70 pb-70 brands-section division">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-8">
+                        <div class="brands-title text-center">
+                            <h2 class="h2-md">Tools &amp; Technologies</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="brands-2-wrapper mt-50">
+                    <div class="row justify-content-md-center row-cols-2 row-cols-sm-3 row-cols-md-4">
+                        <div class="col">
+                            <div class="brand-logo">
+                                <a href="#">
+                                    <img class="img-fluid" src="./assets/images/website-data/apache-spark.png" alt="Apache Spark" />
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="brand-logo">
+                                <a href="#">
+                                    <img class="img-fluid" src="./assets/images/website-data/azure-ml.png" alt="Azure ML" />
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="brand-logo">
+                                <a href="#">
+                                    <img class="img-fluid" src="./assets/images/website-data/scala.png" alt="Scala" />
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="brand-logo">
+                                <a href="#">
+                                    <img class="img-fluid" src="./assets/images/website-data/python.png" alt="Python" />
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="brand-logo">
+                                <a href="#">
+                                    <img class="img-fluid" src="./assets/images/website-data/r.png" alt="R" />
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="brand-logo">
+                                <a href="#">
+                                    <img class="img-fluid" src="./assets/images/website-data/tensorflow.png" alt="Tensorflow" />
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- TOOLS AND TECHNOLOGIES END -->
+
         <!-- CONTENT START -->
         <section id="features-4" class="pt-60 pb-60 features-section division">
             <div class="container">
@@ -182,12 +242,12 @@
                             <div class="fbox-4 pr-25 mb-40 wow fadeInUp">
                                 <div class="fbox-ico">
                                     <div>
-                                        <img src="./assets/images/website-data/result-oriented.png" style="width: 70px; height: auto" alt="content-image" />
+                                        <img src="./assets/images/website-data/implementation-process.png" style="width: 70px; height: auto" alt="content-image" />
                                     </div>
                                 </div>
                                 <div class="fbox-txt">
-                                    <h5 class="h5-md">Result-driven Approach</h5>
-                                    <p class="p-sm">Not at all like innovation driven organizations, Rishabh's information designing practice is result-arranged. We center around building versatile information model establishments with substances and components that go past archived use cases to drive ideal incentive for your business.
+                                    <h5 class="h5-md">Tailored Implementation Process</h5>
+                                    <p class="p-sm">Our demonstrated information science execution approach upholds organizations to determine max esteem. With an unmistakable comprehension of your one of a kind difficulties, needs and objectives; we sort out the issues that can be settled by utilizing AI and ML innovations to boost ROI.
                                     </p>
                                 </div>
                             </div>
@@ -196,12 +256,12 @@
                             <div class="fbox-4 pl-25 mb-40 wow fadeInUp">
                                 <div class="fbox-ico">
                                     <div>
-                                        <img src="./assets/images/website-data/global-enterprises.png" style="width: 70px; height: auto" alt="content-image" />
+                                        <img src="./assets/images/website-data/realtime-insights.png" style="width: 70px; height: auto" alt="content-image" />
                                     </div>
                                 </div>
                                 <div class="fbox-txt">
-                                    <h5 class="h5-md">Engagement & Partnership</h5>
-                                    <p class="p-sm">We work with clients as their drawn out improvement join forces with a light-footed approach spread across visioning to arranging, conveyance and backing while at the same time making due, keeping a committed group of experts as their virtual staff.
+                                    <h5 class="h5-md">Real-Time Customer Insights</h5>
+                                    <p class="p-sm">As an information science administrations organization, we assist with building savvy arrangements that filter through petabytes of undiscovered information to uncover experiences. From KYC information assortment to better client division, focusing on/transformations, to continuous examination that further develop results.
                                     </p>
                                 </div>
                             </div>
@@ -210,12 +270,12 @@
                             <div class="fbox-4 pr-25 mb-40 wow fadeInUp">
                                 <div class="fbox-ico">
                                     <div>
-                                        <img src="./assets/images/website-data/cloud-advisory.png" style="width: 70px; height: auto" alt="content-image" />
+                                        <img src="./assets/images/website-data/improvements.png" style="width: 70px; height: auto" alt="content-image" />
                                     </div>
                                 </div>
                                 <div class="fbox-txt">
-                                    <h5 class="h5-md">Cloud Data Engineering Advisory</h5>
-                                    <p class="p-sm">Our group uses the most recent in cloud innovations to help quick and versatile information conglomeration with a negligible code work out. From cloud evaluation and BI enablement to information stockroom and oversaw administrations, we assist you with conquering each test with our information designing abilities.
+                                    <h5 class="h5-md">Operational Improvements</h5>
+                                    <p class="p-sm">Our group offers distinguishing proof of patterns, determining, gadget and asset observing and even mechanizes everyday assignments. With information science as an assistance, we assist with executing profound learning pipelines for symptomatic imaging and BERT-based text handling.
                                     </p>
                                 </div>
                             </div>
@@ -224,12 +284,12 @@
                             <div class="fbox-4 pl-25 mb-40 wow fadeInUp">
                                 <div class="fbox-ico">
                                     <div>
-                                        <img src="./assets/images/website-data/value-for-money.png" style="width: 70px; height: auto" alt="content-image" />
+                                        <img src="./assets/images/website-data/multi-sector.png" style="width: 70px; height: auto" alt="content-image" />
                                     </div>
                                 </div>
                                 <div class="fbox-txt">
-                                    <h5 class="h5-md">Best Possible TCO</h5>
-                                    <p class="p-sm">Our information designing arrangements influence strong, adaptable, and reusable runbooks, structures and layouts for information administration, characterization and quality administration. This upgrades costs while speeding up the reception of cutting edge investigation.
+                                    <h5 class="h5-md">Multi-Sector Expertise</h5>
+                                    <p class="p-sm">From banking, media transmission and retail to neighborliness and medical services, we've assisted clients with settling the hardest business challenges, anticipate interest for contributions, upgrade consumer loyalty and execute beneficial procedures in view of precise information and premonition.
                                     </p>
                                 </div>
                             </div>
@@ -257,7 +317,7 @@
                         <div class="col-lg-4">
                             <div class="text-end">
                                 <div class="cta-4-btn text-center">
-                                    <a href="#" class="btn btn-green tra-grey-hover">Contact Us Now</a>
+                                    <a href="./contact-us" class="btn btn-green tra-grey-hover">Contact Us Now</a>
                                 </div>
                             </div>
                         </div>

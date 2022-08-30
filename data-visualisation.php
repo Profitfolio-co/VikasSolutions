@@ -142,7 +142,7 @@
                             </div>
                             <div class="txt-box">
                                 <h5 class="h5-lg">Reports and Dashboards Development</h5>
-                                <p class="p-sm">As a top of the line supplier of custom information perception arrangements, Rishabh has practical experience in making full-scale reports and dashboards for various end-clients - from ones with no examination skill to information experts and CEOs to organization clients. Our group assists you with picking the right BI devices (Tableau Or Power BI) that suit your interesting requirements.</p>
+                                <p class="p-sm">As a top of the line supplier of custom information perception arrangements, Vikas Solution has practical experience in making full-scale reports and dashboards for various end-clients - from ones with no examination skill to information experts and CEOs to organization clients. Our group assists you with picking the right BI devices (Tableau Or Power BI) that suit your interesting requirements.</p>
                             </div>
                         </div>
                     </div>
@@ -268,7 +268,7 @@
                                 </div>
                                 <div class="fbox-txt">
                                     <h5 class="h5-md">Unrivaled Capabilities</h5>
-                                    <p class="p-sm">Upheld by a few effective BI and Analytics executions, Rishabh is a top of the line innovation collaborate with a coordinated group, gaining practical experience in Microsoft Power BI.
+                                    <p class="p-sm">Upheld by a few effective BI and Analytics executions, Vikas Solution is a top of the line innovation collaborate with a coordinated group, gaining practical experience in Microsoft Power BI.
                                     </p>
                                 </div>
                             </div>
@@ -310,7 +310,7 @@
                         <div class="col-lg-4">
                             <div class="text-end">
                                 <div class="cta-4-btn text-center">
-                                    <a href="#" class="btn btn-green tra-grey-hover">Contact Us Now</a>
+                                    <a href="./contact-us" class="btn btn-green tra-grey-hover">Contact Us Now</a>
                                 </div>
                             </div>
                         </div>

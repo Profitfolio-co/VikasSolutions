@@ -196,7 +196,7 @@
                                 </div>
                                 <div class="fbox-txt">
                                     <h5 class="h5-md">Result-driven Approach</h5>
-                                    <p class="p-sm">Not at all like innovation driven organizations, Rishabh's information designing practice is result-arranged. We center around building versatile information model establishments with substances and components that go past archived use cases to drive ideal incentive for your business.
+                                    <p class="p-sm">Not at all like innovation driven organizations, Vikas Solution's information designing practice is result-arranged. We center around building versatile information model establishments with substances and components that go past archived use cases to drive ideal incentive for your business.
                                     </p>
                                 </div>
                             </div>
@@ -266,7 +266,7 @@
                         <div class="col-lg-4">
                             <div class="text-end">
                                 <div class="cta-4-btn text-center">
-                                    <a href="#" class="btn btn-green tra-grey-hover">Contact Us Now</a>
+                                    <a href="./contact-us" class="btn btn-green tra-grey-hover">Contact Us Now</a>
                                 </div>
                             </div>
                         </div>

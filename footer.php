@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-lg-4">
                 <div class="footer-info mb-40">
-                    <img class="footer-logo mb-25" src="./assets/images/vc-logo.png" alt="footer-logo">
+                    <img class="footer-logo mb-25" src="./assets/images/website-data/vc-logo.png" alt="footer-logo">
                     <p class="p-md">Using streamlined practices to resolve complex business setbacks.</p>
                     <p class="p-md">Get back into business with Vikas Soutions!</p>
                 </div>

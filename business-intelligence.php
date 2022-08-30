@@ -289,7 +289,7 @@
                                 </div>
                                 <div class="fbox-txt">
                                     <h5 class="h5-md">Transparent and Consultative Engagement</h5>
-                                    <p class="p-sm">Right from our business knowledge counseling to execution, Rishabh offers business-accommodating and consultative commitment models that serve your venture explicit necessities. We maintain straightforwardness in the entirety of our correspondences and client-explicit work processes.
+                                    <p class="p-sm">Right from our business knowledge counseling to execution, Vikas Solution offers business-accommodating and consultative commitment models that serve your venture explicit necessities. We maintain straightforwardness in the entirety of our correspondences and client-explicit work processes.
                                     </p>
                                 </div>
                             </div>
@@ -317,7 +317,7 @@
                         <div class="col-lg-4">
                             <div class="text-end">
                                 <div class="cta-4-btn text-center">
-                                    <a href="#" class="btn btn-green tra-grey-hover">Contact Us Now</a>
+                                    <a href="./contact-us" class="btn btn-green tra-grey-hover">Contact Us Now</a>
                                 </div>
                             </div>
                         </div>

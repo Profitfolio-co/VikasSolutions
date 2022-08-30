@@ -219,7 +219,7 @@
                     <div class="col-lg-12 col-xl-12">
                         <div class="section-title title-01 mb-70">
                             <h2 class="h2-md">Our cloud programming advancement administrations assist with driving development</h2>
-                            <p class="p-xl">As a cloud improvement organization, we at Rishabh Software support associations with an unmistakable cloud execution guide, vigorous yet adaptable cloud design, ceaseless upkeep and constant application support.
+                            <p class="p-xl">As a cloud improvement organization, we at Vikas Solution Software support associations with an unmistakable cloud execution guide, vigorous yet adaptable cloud design, ceaseless upkeep and constant application support.
                             </p>
                         </div>
                     </div>
@@ -305,7 +305,7 @@
                         <div class="col-lg-4">
                             <div class="text-end">
                                 <div class="cta-4-btn text-center">
-                                    <a href="#" class="btn btn-green tra-grey-hover">Contact Us Now</a>
+                                    <a href="./contact-us" class="btn btn-green tra-grey-hover">Contact Us Now</a>
                                 </div>
                             </div>
                         </div>

@@ -384,7 +384,7 @@
 		/*	Request Form Validation
 		/*----------------------------------------------------*/
 		
-		$(".request-form").validate({
+		/* $(".request-form").validate({
 			rules:{ 
 					name:{
 						required: true,
@@ -405,14 +405,14 @@
 								email: "Your email address must be in the format of name@domain.com"
 							}, 
 						}
-		});
+		}); */
 
 
 		/*----------------------------------------------------*/
 		/*	Contact Form Validation
 		/*----------------------------------------------------*/
 		
-		$(".contact-form").validate({
+		/* $(".contact-form").validate({
 			rules:{ 
 					name:{
 						required: true,
@@ -440,7 +440,7 @@
 								required: "Please enter no less than (2) characters"
 							}, 
 						}
-		});
+		}); */
 
 
 		/*----------------------------------------------------*/
